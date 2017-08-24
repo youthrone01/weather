@@ -1,0 +1,8 @@
+.container{
+    margin: 0 auto;
+    width: 970px;
+    background-color: grey;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+}
